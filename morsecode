@@ -1,0 +1,20 @@
+# ctf
+Morse_code CTF
+
+
+to open a file we use the tools sonic visualiser
+we will try if it sounds streo file we will try the technique spectogram to see the differences between channel 1
+
+and there we see the Morse code
+we try to get the decode flag
+
+
+
+decode the file using online tools mose
+Mose : ..-. .-.. .- --. -.. --- -. -. . -- --- .. - .- .--- .- -- -... .
+
+online tool
+http://morsecode.scphillips.com/translator.html
+
+code morse
+https://en.wikipedia.org/wiki/Morse_code
